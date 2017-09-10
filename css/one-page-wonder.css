@@ -26,6 +26,7 @@ header.masthead > .overlay {
     padding: 5rem 0;
     text-align: center;
     background: rgba(0, 0, 0, 0.6);
+    background: url('../img/tahoe.png') no-repeat center center scroll;
 }
 
 @media (min-width: 992px) {
